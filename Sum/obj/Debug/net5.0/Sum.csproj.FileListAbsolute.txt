@@ -1,0 +1,15 @@
+C:\Users\Artjom\Documents\RKE132\MoreLoops\Sum\bin\Debug\net5.0\Sum.exe
+C:\Users\Artjom\Documents\RKE132\MoreLoops\Sum\bin\Debug\net5.0\Sum.deps.json
+C:\Users\Artjom\Documents\RKE132\MoreLoops\Sum\bin\Debug\net5.0\Sum.runtimeconfig.json
+C:\Users\Artjom\Documents\RKE132\MoreLoops\Sum\bin\Debug\net5.0\Sum.runtimeconfig.dev.json
+C:\Users\Artjom\Documents\RKE132\MoreLoops\Sum\bin\Debug\net5.0\Sum.dll
+C:\Users\Artjom\Documents\RKE132\MoreLoops\Sum\bin\Debug\net5.0\ref\Sum.dll
+C:\Users\Artjom\Documents\RKE132\MoreLoops\Sum\bin\Debug\net5.0\Sum.pdb
+C:\Users\Artjom\Documents\RKE132\MoreLoops\Sum\obj\Debug\net5.0\Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Artjom\Documents\RKE132\MoreLoops\Sum\obj\Debug\net5.0\Sum.AssemblyInfoInputs.cache
+C:\Users\Artjom\Documents\RKE132\MoreLoops\Sum\obj\Debug\net5.0\Sum.AssemblyInfo.cs
+C:\Users\Artjom\Documents\RKE132\MoreLoops\Sum\obj\Debug\net5.0\Sum.csproj.CoreCompileInputs.cache
+C:\Users\Artjom\Documents\RKE132\MoreLoops\Sum\obj\Debug\net5.0\Sum.dll
+C:\Users\Artjom\Documents\RKE132\MoreLoops\Sum\obj\Debug\net5.0\ref\Sum.dll
+C:\Users\Artjom\Documents\RKE132\MoreLoops\Sum\obj\Debug\net5.0\Sum.pdb
+C:\Users\Artjom\Documents\RKE132\MoreLoops\Sum\obj\Debug\net5.0\Sum.genruntimeconfig.cache

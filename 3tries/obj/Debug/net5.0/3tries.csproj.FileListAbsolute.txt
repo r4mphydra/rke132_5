@@ -1,0 +1,16 @@
+C:\Users\Artjom\Documents\RKE132\MoreLoops\3tries\bin\Debug\net5.0\3tries.exe
+C:\Users\Artjom\Documents\RKE132\MoreLoops\3tries\bin\Debug\net5.0\3tries.deps.json
+C:\Users\Artjom\Documents\RKE132\MoreLoops\3tries\bin\Debug\net5.0\3tries.runtimeconfig.json
+C:\Users\Artjom\Documents\RKE132\MoreLoops\3tries\bin\Debug\net5.0\3tries.runtimeconfig.dev.json
+C:\Users\Artjom\Documents\RKE132\MoreLoops\3tries\bin\Debug\net5.0\3tries.dll
+C:\Users\Artjom\Documents\RKE132\MoreLoops\3tries\bin\Debug\net5.0\ref\3tries.dll
+C:\Users\Artjom\Documents\RKE132\MoreLoops\3tries\bin\Debug\net5.0\3tries.pdb
+C:\Users\Artjom\Documents\RKE132\MoreLoops\3tries\obj\Debug\net5.0\3tries.csproj.AssemblyReference.cache
+C:\Users\Artjom\Documents\RKE132\MoreLoops\3tries\obj\Debug\net5.0\3tries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Artjom\Documents\RKE132\MoreLoops\3tries\obj\Debug\net5.0\3tries.AssemblyInfoInputs.cache
+C:\Users\Artjom\Documents\RKE132\MoreLoops\3tries\obj\Debug\net5.0\3tries.AssemblyInfo.cs
+C:\Users\Artjom\Documents\RKE132\MoreLoops\3tries\obj\Debug\net5.0\3tries.csproj.CoreCompileInputs.cache
+C:\Users\Artjom\Documents\RKE132\MoreLoops\3tries\obj\Debug\net5.0\3tries.dll
+C:\Users\Artjom\Documents\RKE132\MoreLoops\3tries\obj\Debug\net5.0\ref\3tries.dll
+C:\Users\Artjom\Documents\RKE132\MoreLoops\3tries\obj\Debug\net5.0\3tries.pdb
+C:\Users\Artjom\Documents\RKE132\MoreLoops\3tries\obj\Debug\net5.0\3tries.genruntimeconfig.cache
